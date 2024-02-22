@@ -7,7 +7,7 @@ A repository, which is a collection of some selected data structures problems wi
 
 ## REFERENCES
 
-The problems consists from various coding platforms like Geeksfor Geeks and leetcode.
+The problems consists from various coding platforms like GeeksforGeeks and leetcode.
 
 
 ```bash
